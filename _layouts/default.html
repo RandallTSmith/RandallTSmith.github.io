@@ -19,7 +19,7 @@
         <img src="./assets/images/Homer-simpson-brain.jpg" alt="Homer Simpson Brain">
         <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
-        <p class="header">{{ site.og_image | default: site.github.og_image }}</p>
+        <p class="header">{{ site.author | default: site.github.author }}</p>
 
         <ul>
           {% if site.show_downloads %}
