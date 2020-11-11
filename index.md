@@ -2,10 +2,16 @@
 layout: default
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 ---
+# About Me
 
-- [string_cleaner.py repo] (https://github.com/RandallTSmith/string_cleaner)
+Something about me or a link with the site about me
+
+# Some of My Repositories
+- [string_cleaner.py repo] (https://github.com/RandallTSmith/string_cleaner).
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+# Some of My Work
 
 [Link to another page](./another-page.html).
 
