@@ -3,7 +3,7 @@ description: Personal Site on GitHub.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-dinky
-og_image: "./assets/images/Homer-simpson-brain.jpg"
+og_image: "Homer-simpson-brain.jpg"
 author:
   name   : "Your Name"
   avatar : "bio-photo.jpg"  # placed in /images/
