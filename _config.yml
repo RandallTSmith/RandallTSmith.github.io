@@ -4,3 +4,9 @@ show_downloads: false
 google_analytics:
 theme: jekyll-theme-dinky
 layout: single
+author:
+  name   : "Your Name"
+  avatar : "bio-photo.jpg"  # placed in /images/
+  bio    : "My awesome biography constrained to a sentence or two goes here."
+  email  : # optional
+  uri    : "http://your-site.com"
