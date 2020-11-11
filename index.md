@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single
 header:
   teaser: ./assets/images/Homer-simpson-brain.jpg
 ---
@@ -8,9 +8,7 @@ header:
 Something about me or a link with the site about me
 
 # Some of My Repositories
-[string_cleaner.py repo](https://github.com/RandallTSmith/string_cleaner/).
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+[Python String Cleaner Function](https://github.com/RandallTSmith/string_cleaner/).
 
 # Some of My Work
 
