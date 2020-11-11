@@ -1,14 +1,24 @@
 ---
-layout: single
+layout: default
 header:
   teaser: ./assets/images/Homer-simpson-brain.jpg
+social:
+  type:  # Person or Organization (defaults to Person)
+  name:  # If the user or organization name differs from the site's name
+  links:
+    - "https://twitter.com/yourTwitter"
+    - "https://facebook.com/yourFacebook"
+    - "https://instagram.com/yourProfile"
+    - "https://www.linkedin.com/in/yourprofile"
+    - "https://plus.google.com/your_profile"  
+og_image: "Homer-simpson-brain.jpg"
 ---
 # About Me
 
 Something about me or a link with the site about me
 
 # Some of My Repositories
-[Python String Cleaner Function](https://github.com/RandallTSmith/string_cleaner/).
+[Python String Cleaner Function](https://github.com/RandallTSmith/string_cleaner/)
 
 # Some of My Work
 
