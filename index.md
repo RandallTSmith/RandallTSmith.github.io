@@ -4,7 +4,7 @@ header:
   teaser: "octocat-small.png"
 
 ---
-![Homer's Favorite Meal](./assets/images/homer-simpson-doughnut1.png =250x250)
+![Homer's Favorite Meal](./assets/images/homer-simpson-doughnut1.png){:height="50%" width="50%"}
 
 # About Me
 
