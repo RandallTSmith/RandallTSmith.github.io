@@ -1,7 +1,7 @@
 ---
 layout: default
 header:
-  teaser: ./assets/images/Homer-simpson-brain.jpg
+  teaser: "octocat-small.png"
 
 ---
 # About Me
