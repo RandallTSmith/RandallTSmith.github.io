@@ -1,5 +1,7 @@
 ---
 layout: default
+header:
+  teaser: ./assets/images/Homer-simpson-brain.jpg
 ---
 # About Me
 
