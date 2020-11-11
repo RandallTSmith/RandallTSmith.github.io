@@ -1,6 +1,9 @@
 ---
 layout: default
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 ---
+
+- [string_cleaner.py repo] (https://github.com/RandallTSmith/string_cleaner)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
