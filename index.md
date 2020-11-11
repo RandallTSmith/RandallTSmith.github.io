@@ -7,7 +7,7 @@ layout: default
 Something about me or a link with the site about me
 
 # Some of My Repositories
-- [string_cleaner.py repo] (https://github.com/RandallTSmith/string_cleaner).
+- [string_cleaner.py repo](https://github.com/RandallTSmith/string_cleaner).
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
