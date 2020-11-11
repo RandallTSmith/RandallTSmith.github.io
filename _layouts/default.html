@@ -15,7 +15,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <p class="header">something</p>
+        <p class="header">{{ site.og_image | default: site.github.repository_name }}</p>
         <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
 
