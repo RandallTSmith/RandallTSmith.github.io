@@ -8,8 +8,8 @@ The following programs contain various versions of json requests to get a much n
 
 ## Version 1-  One random joke 
 
--[Random Bad Data Joke HTML](Random Bad Dad Jokes V1.html)
--[Random Bad Dad Joke Jupyter](Random Bad Dad Jokes V1.ipynb)
+- [Random Bad Dad Joke HTML](Random Bad Dad Jokes V1.html)
+- [Random Bad Dad Joke Jupyter](Random Bad Dad Jokes V1.ipynb)
 
 ## Version 2- Subject jokes
 
