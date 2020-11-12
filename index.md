@@ -15,7 +15,7 @@ Something about me or a link with the site about me
 
 # Some of My Work
 
-[Bad Data Jokes](./baddadjokes/index.md)
+[Bad Dad Jokes](./baddadjokes/index.md)
 
 
 
